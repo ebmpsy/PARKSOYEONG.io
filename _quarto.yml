@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "soyeongblog"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/ebmpsy
+format:
+  html:
+    theme:
+      - litera
+      - brand
+    css: styles.css
+
+
+

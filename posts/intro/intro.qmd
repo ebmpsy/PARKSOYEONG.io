@@ -1,0 +1,10 @@
+---
+title: "Introduction"
+author: "Soyeong Park"
+date: "2025-07-22"
+categories: [news]
+---
+
+안녕하세요.
+제 이름은 박소영입니다.
+2000년생입니다.
